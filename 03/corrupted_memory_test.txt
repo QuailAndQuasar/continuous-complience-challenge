@@ -1,0 +1,6 @@
+# Sample test input for RSpec
+# This file should contain a mix of mul, do, and don't instructions
+# Only the enabled mul instructions should be summed
+
+xmul(2,4)&mul[3,7]!^don't()_mul(5,5)+mul(32,64](mul(11,8)undo()?mul(8,5))
+do()mul(3,3)don't()mul(4,4)mul(6,6)do()mul(7,7)
